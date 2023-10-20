@@ -1,0 +1,6 @@
+.nav-link {
+  color: white !important;
+}
+nav .nav .nav-link :hover {
+  color: bisque;
+}
